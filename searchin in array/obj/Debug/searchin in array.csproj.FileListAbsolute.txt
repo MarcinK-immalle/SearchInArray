@@ -1,0 +1,7 @@
+D:\5ITN\Marcin\Marcin\RANDOM\searchin in array\searchin in array\bin\Debug\searchin in array.exe.config
+D:\5ITN\Marcin\Marcin\RANDOM\searchin in array\searchin in array\bin\Debug\searchin in array.exe
+D:\5ITN\Marcin\Marcin\RANDOM\searchin in array\searchin in array\bin\Debug\searchin in array.pdb
+D:\5ITN\Marcin\Marcin\RANDOM\searchin in array\searchin in array\obj\Debug\searchin in array.csprojResolveAssemblyReference.cache
+D:\5ITN\Marcin\Marcin\RANDOM\searchin in array\searchin in array\obj\Debug\searchin in array.csproj.CoreCompileInputs.cache
+D:\5ITN\Marcin\Marcin\RANDOM\searchin in array\searchin in array\obj\Debug\searchin in array.exe
+D:\5ITN\Marcin\Marcin\RANDOM\searchin in array\searchin in array\obj\Debug\searchin in array.pdb
